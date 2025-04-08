@@ -1,4 +1,4 @@
-# mvelo.io
+
 # Mvelo Mkhize - Professional Portfolio
 
 ![Portfolio Screenshot](./screenshot.jpg) *Replace with your actual screenshot*
