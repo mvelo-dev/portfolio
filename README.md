@@ -1,8 +1,5 @@
 
 # Mvelo Mkhize - Professional Portfolio
-
-![Portfolio Screenshot](./screenshot.jpg) *Replace with your actual screenshot*
-
 A modern, responsive portfolio showcasing my skills, projects, and professional experience as a full-stack developer.
 
 ## 🚀 Features
